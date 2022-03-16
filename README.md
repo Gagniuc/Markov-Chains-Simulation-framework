@@ -9,4 +9,5 @@ The application from below is a MCG that uses probability values from a transiti
 ![screenshot](https://github.com/Gagniuc/Markov-Chains---Simulation-framework/blob/main/Markov%20Chains%20-%20Simulation%20framework.PNG)
 
 # References
-<i>Paul A. Gagniuc. Markov chains: from theory to implementation and experimentation. Hoboken, NJ,  John Wiley & Sons, USA, 2017, ISBN: 978-1-119-38755-8.</i>
+
+- <i>Paul A. Gagniuc. Markov chains: from theory to implementation and experimentation. Hoboken, NJ,  John Wiley & Sons, USA, 2017, ISBN: 978-1-119-38755-8.</i>
